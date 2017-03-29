@@ -1,0 +1,12 @@
+type, latitude, longitude, elevation:   S2                 40.8287  -125.1340 -1642.0000
+crustal thickness, ave. vp, vs, rho:            23.0000     5.7386     3.1179     2.8261
+Mantle below Moho: ave. vp, vs, rho:                        8.2000     4.7000     3.4000
+  
+ 7-layer crustal model (thickness, vp,vs,rho)
+    1.6420    1.5000    0.0000    1.0200  water       
+    0.0000    3.8100    1.9400    0.9200  ice         
+    1.5000    2.3000    1.1000    2.2000  soft sed.   
+    0.5000    3.2000    1.6000    2.3000  hard sed.   
+    7.0000    6.0000    3.4000    2.7000  upper crust 
+    7.0000    6.6000    3.7000    2.9000  middle crust
+    7.0000    7.2000    4.0000    3.0500  lower crust 

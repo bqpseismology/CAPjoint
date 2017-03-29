@@ -1,0 +1,1 @@
+perl ./cmds/cap_3.pl -D1/0/0 -T60/60 -V-1/-1/-1 -G./greenFuncDir  -O -P1e-6/90/k   -H0.05 -L10  -Mvmodel_$1/6.87 -W1 -R38/58/51/71/-19/1  -S5/10/0 -C0.01/0.1/0.01/0.08  -I1/0.1  data  -Zweight.dat -A200/1/0 
